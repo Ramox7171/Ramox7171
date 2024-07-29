@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  HTML, CSS, JS, React 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me : via PM
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: I used to coding in Pascal in late 90's as a kid. 
 
 <!---
