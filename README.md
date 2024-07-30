@@ -1,8 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+![1P0A3041-4x5mn](https://github.com/user-attachments/assets/7a86f6b0-2f8e-492c-804e-c5d9b2fce718)
+
 
 <p align="left">My name is  Mikołaj, (Ramox71) and I'm from Poland.</p>
+
+
 
 ###
 
