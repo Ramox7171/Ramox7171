@@ -9,6 +9,8 @@
 
 
 ##IMPORTANT INFORMATION! – If you want to browse my portfolio, check out the first pinned project, as GitHub only allows pinning six projects. Therefore, if you're viewing my GitHub, click on the deployment link of the first project or use this link:
+
+
 [CommitForge-ALL MY PROJECTS](https://all-projects-commit-forge.vercel.app/)
 
 
