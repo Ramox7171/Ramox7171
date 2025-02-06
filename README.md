@@ -13,6 +13,8 @@
 
 [CommitForge-ALL MY PROJECTS](https://all-projects-commit-forge.vercel.app/)
 
+There are no "private" repositories that I am working on.
+
 
 <h2 align="left">BIO:</h2>
 
