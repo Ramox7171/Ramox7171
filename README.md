@@ -4,7 +4,7 @@
 
 
 
-<p align="left">My name is  Mikołaj, and I'm from Poland.</p>
+<p align="left">Hi! I'm from Poland.</p>
 
 
 
